@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="objet">Pain au chocolat</string>
+    <string name="prix">1.0 €</string>
+    <string name="description">Une viennoiserie au beurre et au chocolat</string>
+    <integer name="note">4</integer>
+</resources>
