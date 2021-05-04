@@ -59,12 +59,11 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
-    <ToggleButton
-        android:id="@+id/toggleButton1"
+    <ImageButton
+        android:id="@+id/imageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOff="Acheter"
-        android:textOn="Acheté"
+        android:src="@drawable/internet32"
          />
 
     <ToggleButton
